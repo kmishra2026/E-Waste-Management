@@ -67,6 +67,53 @@ The system is built using robust, performant, and widely supported web technolog
 
 ---
 
-## 📂 Project Structure
+---
 
-The repository is organized logically for clarity and easy navigation:
+## 🚀 Getting Started
+
+To run this project locally, follow these simple steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/kmishra2026/E-Waste-Management.git](https://github.com/kmishra2026/E-Waste-Management.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd E-Waste-Management
+    ```
+3.  **Open `index.html`:** Simply open the `index.html` file in your preferred web browser. No special server setup is required for basic functionality.
+
+---
+
+## 🤝 Contribution Guidelines
+
+We welcome contributions from the community to make this project even better!
+
+1.  **Fork the repository.**
+2.  **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name` or `bugfix/issue-description`.
+3.  **Make your changes.**
+4.  **Commit your changes** with clear, concise messages.
+5.  **Push to your fork:** `git push origin feature/your-feature-name`.
+6.  **Submit a Pull Request** to the `main` branch of this repository.
+
+Please ensure your code adheres to the existing coding style and includes appropriate documentation. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## 📜 License
+
+This project is open-source and distributed under the terms of the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 📞 Contact
+
+For any questions, suggestions, or collaborations, feel free to reach out!
+
+* **Author:** Khushi Mishra
+* **Project Link:** [https://kmishra2026.github.io/E-Waste-Management/](https://kmishra2026.github.io/E-Waste-Management/)
+* **GitHub Profile:** [github.com/kmishra2026](https://github.com/kmishra2026) (You might want to add your direct GitHub profile link here)
+
+---
